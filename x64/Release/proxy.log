@@ -1,0 +1,41 @@
+﻿  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+  unix.c
+  win32.c
+  sandbird.c
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\sandbird\sandbird.c(520,59): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\sandbird\sandbird.c(834,54): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\sandbird\sandbird.c(897,20): warning C4244: 'function': conversion from 'sb_Socket' to 'int', possible loss of data
+  events.cpp
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\events.cpp(205,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\events.cpp(327,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gt.cpp
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  http.cpp
+  proxy.cpp
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  server.cpp
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  utils.cpp
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 818 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  proxy.vcxproj -> C:\Users\Kajus\OneDrive\Desktop\enetproxy-main\enetproxy-main\x64\Release\proxy.exe
