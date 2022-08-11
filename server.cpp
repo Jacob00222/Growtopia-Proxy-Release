@@ -332,7 +332,7 @@ void server::send(bool client, variantlist_t& list, int32_t netid, int32_t delay
     memcpy(&update_packet->m_data, data, data_size);
     update_packet->m_data_size = data_size;
     memcpy(&game_packet->m_data, update_packet, sizeof(gameupdatepacket_t) + data_size);
-    free(update_packet);
+    free(update_packet); // changed
 
     auto packet = enet_packet_create(game_packet, data_size + sizeof(gameupdatepacket_t), ENET_PACKET_FLAG_RELIABLE);
     enet_peer_send(peer, 0, packet);
