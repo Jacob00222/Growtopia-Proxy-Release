@@ -1,3 +1,3 @@
 # Growtopia-Proxy-Rel Growtopia Proxy (Auto Update in Release)
-LAST UPDATE: 2023 04 13
-All good, auto-update in release still works.
+LAST UPDATE: 2024 10 19
+Updated Auto-Update feature, not included in source. 
